@@ -48,4 +48,4 @@ See [tor manual](https://2019.www.torproject.org/docs/tor-manual.html.en) for de
 
 ### Dial Fields
 
-See [Dial Fields](/configuration/shared/dial) for details.
+See [Dial Fields](/configuration/shared/dial/) for details.
